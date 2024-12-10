@@ -2,7 +2,6 @@ import argparse
 import numpy as np
 import csv
 import re
-import screed
 import pytaxonkit
 
 
