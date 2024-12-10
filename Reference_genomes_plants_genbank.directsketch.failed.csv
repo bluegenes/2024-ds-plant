@@ -1,0 +1,3 @@
+accession,name,moltype,md5sum,download_filename,url
+GCA_033675215.1,GCA_033675215.1 ASM3367521v1 Rhodiola kirilowii,DNA,,GCA_033675215.1_genomic.fna.gz,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/675/215/GCA_033675215.1_ASM3367521v1/GCA_033675215.1_ASM3367521v1_genomic.fna.gz
+GCA_033675395.1,GCA_033675395.1 ASM3367539v1 Rhodiola chrysanthemifolia,DNA,,GCA_033675395.1_genomic.fna.gz,https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/033/675/395/GCA_033675395.1_ASM3367539v1/GCA_033675395.1_ASM3367539v1_genomic.fna.gz
