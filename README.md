@@ -12,6 +12,13 @@ GCF_030704535.1,GCF_030704535.1 ASM3070453v1 Vitis vinifera,
 GCF_022201045.2,GCF_022201045.2 DVS_A1.0 Citrus sinensis,
 ```
 
+### Make conda environment with directsketch and taxonkit
+
+```
+mamba create -n 2024-ds-plant sourmash_plugin_directsketch pytaxonkit
+mamba activate 2024-ds-plant
+```
+
 ### Use `gbsketch` to download and sketch database
 
 ```
@@ -32,11 +39,6 @@ sourmash sig cat -k 51 Reference_genomes_plants_genbank.directsketch.zip -o genb
 ```
 
 ## Build Lineages (taxonomy) File
-
-```
-mamba create -n taxonkit pytaxonkit
-mamba activate taxonkit
-```
 
 ### update ncbi taxdump files for taxonkit
 
